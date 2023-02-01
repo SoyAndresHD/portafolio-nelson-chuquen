@@ -205,6 +205,14 @@ html{
     z-index: -1;
     transition: 1s;
 }
+
+#CV{
+
+  text-decoration: none;
+  
+
+
+}
 .sobremi button:hover .overlay{
     width: 100%;
 }
@@ -579,6 +587,7 @@ html{
     z-index: -1;
     transition: 1s;
 }
+
 .contacto button:hover .overlay{
     width: 100%;
 }
