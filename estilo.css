@@ -535,10 +535,12 @@ html{
     background-color: #1e2326;
     color: #fff;
     padding: 50px 0;
+    text-align: center;
 }
 .contacto .contenido-seccion{
     max-width: 1100px;
-    margin: auto;
+    margin: 40%;
+    text-align: center;
 }
 .contacto h2{
     font-size: 48px;
@@ -550,7 +552,7 @@ html{
     display: flex;
 }
 .contacto .col{
-    width: 50%;
+    width: 100%;
     padding: 10px;
     position: relative;
 }
@@ -587,7 +589,6 @@ html{
     z-index: -1;
     transition: 1s;
 }
-
 .contacto button:hover .overlay{
     width: 100%;
 }
